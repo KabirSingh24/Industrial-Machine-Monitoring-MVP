@@ -1,4 +1,4 @@
-# SmartFactory Monitor  
+# Swastika Machine Monitor  
 ### Personal Project – Industrial Machine Monitoring & Anomaly Detection MVP
 
 SmartFactory Monitor is a modular industrial machine monitoring system built as a personal learning project.  
